@@ -1,6 +1,8 @@
 # GRMMCE
 Geodesic Reconstruction MMCE
+
 Please cite: 
+
 @article{Rom_n_2020,
 	doi = {10.1016/j.entcs.2020.02.013},
 	url = {https://doi.org/10.1016%2Fj.entcs.2020.02.013},

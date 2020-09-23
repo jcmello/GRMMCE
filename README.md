@@ -14,3 +14,6 @@ author = {Julio C{\'{e}}sar Mello Rom{\'{a}}n and Ricardo Escobar and Fabiola Ma
 title = {Medical Image Enhancement With Brightness and Detail Preserving Using Multiscale Top-hat Transform by Reconstruction},
 journal = {Electronic Notes in Theoretical Computer Science}
 }
+
+# 23.png 
+Image was downloaded https://openi.nlm.nih.gov/

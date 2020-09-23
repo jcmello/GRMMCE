@@ -1,4 +1,4 @@
-# GRMMCE
+# GR-MMCE
 Geodesic Reconstruction MMCE
 
 Please cite: 

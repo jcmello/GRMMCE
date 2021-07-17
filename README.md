@@ -1,9 +1,9 @@
-# GR-MMCE
+# GRMMCE
 Geodesic Reconstruction MMCE
 
 Please cite: 
 
-Román, J. C. M., Escobar, R., Martínez, F., Noguera, J. L. V., Legal-Ayala, H., & Pinto-Roa, D. P. (2020). Medical Image Enhancement With Brightness and Detail Preserving Using Multiscale Top-hat Transform by Reconstruction. Electronic Notes in Theoretical Computer Science, 349, 69-80. https://doi.org/10.1016/j.entcs.2020.02.013
+Mello Román, J. C., Escobar, R., Martínez, F., Noguera, J. L. V., Legal-Ayala, H., & Pinto-Roa, D. P. (2020). Medical Image Enhancement With Brightness and Detail Preserving Using Multiscale Top-hat Transform by Reconstruction. Electronic Notes in Theoretical Computer Science, 349, 69-80. https://doi.org/10.1016/j.entcs.2020.02.013
 
 # ImageJ
 An open platform for scientific image analysis. (https://imagej.net/Welcome)
